@@ -1,48 +1,76 @@
+# Royal Hash
 
-What is Geckocoin?
--------------
+**Royal Hash™** is a custom-built blockchain mining algorithm forged by the **Elbanna Royal Family** to secure decentralized ecosystems with AI-enhanced protection, resistance to manipulation, and sustainable rewards.
 
-Geckocoin (GEC) is a blockchain project that promotes and integrates cryptocurrency into game projects. Anyone can play games, even with minimal knowledge of cryptocurrencies. Geckocoin will be the catalyst that will put the cryptocurrency in the hands masses through video games.
+## What is Royal Hash?
 
-License
--------
+Royal Hash™ is a hybrid mining algorithm inspired by GhostRider, RandomX, and proprietary Elbanna innovations. It's designed to:
 
-Geckocoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
+- Prevent mining takeovers and pool dominance
+- Eliminate flipping and merge-mining exploits
+- Balance GPU and CPU workloads with dynamic modular rotation
+- Support long-term blockchain sustainability
+- Allow fair mining for real people, not whales or institutions
 
-Development Process
--------------------
+## Key Features
 
-The `master` branch is meant to be stable. Development is done in separate branches.
-[Tags](https://github.com/geckocoin/geckocoin/tags) are created to indicate new official,
-stable release versions of Geckocoin Core.
+### 1. **AI Adaptive Workloads**
+Royal Hash™ dynamically adjusts algorithmic workload complexity using AI heuristics to prevent centralization and maintain decentralization.
 
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
+### 2. **Anti-Takeover Mechanism**
+Built-in security layers block flip attacks, timestamp manipulation, and orphan flooding — ensuring that no mining cartel can manipulate consensus.
 
-Testing
--------
+### 3. **Quantum-Ready Framework**
+With cryptographic resistance to quantum threats, Royal Hash™ lays the foundation for post-quantum blockchain security.
 
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
+### 4. **ZK-Based Miner Reputation Layer**
+Each miner builds reputation over time via zero-knowledge proofs (ZKPs), preventing Sybil attacks and enabling privacy-first validation.
 
-### Automated Testing
+### 5. **Energy Optimization**
+Uses a rotational scheduling model that balances CPU and GPU threads based on power efficiency, thermal loads, and network demand.
 
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
+---
 
-There are also [regression and integration tests](/test), written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/test) are installed) with: `test/functional/test_runner.py`
+## Economics & Vision
 
-The Travis CI system makes sure that every pull request is built for Windows, Linux, and OS X, and that unit/sanity tests are run automatically.
+- **Emission Schedule:** AI-curved for longevity, ensuring emissions until **2075**
+- **Max Supply:** 1,000,000,000 ELB (Elbanna)
+- **Block Time:** 5 seconds (faster than Visa)
+- **Premined Reserve:** 33% to fund liquidity, development, and the Elbanna Royal Reserve
 
-### Manual Quality Assurance (QA) Testing
+---
 
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
+## Mission
+
+> To restore sovereignty, privacy, and fair wealth distribution across the globe through computational proof and decentralized consensus — one hash at a time.
+
+**"Project X was just the beginning. Royal Hash is the future."** – *Alex Elbanna*
+
+---
+
+## Licensing
+
+**Elbanna Royal License (ERL)**  
+This code and concept are licensed under the **ERL**. Forks and derivative works are allowed **only** if the solution provides an undeniable improvement for humanity. Violators face legal consequences under international copyright protections.
+
+---
+
+## Connect With Us
+
+- Official Site: [Elbanna.org](https://elbanna.org)
+- IPFS Version: *Coming Soon*
+- Whitepaper: *Available on request*
+- Royal Reserve Address: *Privately Held for Audit*
+
+---
+
+## Support the Mission
+
+If you believe in this vision and want to fuel the fire:
+
+**Donate BTC:** `1NPa6dTkRxRdhfXX7tYEVEBUWZqyTfVE1a`  
+**NowPayments Link:** [Donate Here](https://nowpayments.io/donation/AlexElbanna)
+
+---
+
+© 2025 Elbanna Royal Family. All rights reserved.
